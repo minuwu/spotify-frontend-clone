@@ -109,12 +109,13 @@
 .badge{
     border: none;
     font-weight: 600;
-    height: 1.5rem;
+    height: fit-content;
     font-size: .8rem;
     width: fit-content;
     border-radius: 1.5rem;
     color: black;
     margin: .5rem;
+    padding: .2rem .8rem;
 }
 .badge:hover{
     transform: scale(1.05);
@@ -285,7 +286,7 @@ h2{
 
 }
 .mid-player-controls input::-webkit-slider-thumb{
-    height: 1rem;
+    height: .5rem;
     width: 1rem;
     border-radius: 50%;
     z-index: 3;
