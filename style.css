@@ -340,4 +340,7 @@ h2{
     .main-content{
         padding-left: .4rem;
     }
+    .socials{
+        width: 100%;
+    }
 }
