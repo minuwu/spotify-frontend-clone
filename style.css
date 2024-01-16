@@ -337,4 +337,7 @@ h2{
     padding-bottom: .1rem;
 	margin-bottom: .1rem;
     }
+    .main-content{
+        padding-left: .4rem;
+    }
 }
