@@ -335,15 +335,23 @@ h2{
     }
     .music-player{	
     	padding-bottom: .1rem;
-	margin-bottom: .1rem;
+        margin-bottom: .1rem;
     }
     .main-content{
-        padding-left: .5rem;
+        padding-left: .4rem;
+        margin-left: .1rem;
+    }
+    .side-bar{
+        margin-right: 0rem;
+    }
+    .card{
+        height: fit-content;
     }
     .socials{
         width: 100%;
     }
     .socials i{
+        opacity: .6;
     	margin: .2rem;
 	padding: .2rem;
     }
